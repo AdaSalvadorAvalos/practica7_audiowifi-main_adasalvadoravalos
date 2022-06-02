@@ -1,15 +1,15 @@
 # audiowifi: práctica 7
 
-Materiales:
-·ESP32
-·Amplificador de Audio Módulo decodificador I2S Dac sin filtrar
-·SPI Reader Lector de Tarjeta SD
-·Altavoz 
+## Materiales:
+- ESP32
+- Amplificador de Audio Módulo decodificador I2S Dac sin filtrar
+- SPI Reader Lector de Tarjeta SD
+- Altavoz 
 
-Presentación:
+## Presentación:
 En esta práctica también usamos el I2S, pero esta vez nos conectaremos a un host on-line para poder reproducir una emisora de radio.
 
-Explicación del código:
+## Explicación del código (con comentarios que explican el funcionamiento línea a línea):
 
 ```
 //librerias
