@@ -1,4 +1,4 @@
-# audiowifi: práctica 7
+# Audiowifi: práctica 7
 
 ## Materiales:
 - ESP32
