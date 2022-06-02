@@ -5,7 +5,7 @@
 #include "SD.h"
 #include "FS.h"
 
-// Digital I/O used
+
 #define SD_CS          5
 #define SPI_MOSI      23
 #define SPI_MISO      19
